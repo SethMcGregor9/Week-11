@@ -1,0 +1,23 @@
+{
+  "name": "week-11-jquery_and_ajax",
+  "version": "1.0.0",
+  "description": "\"# Week-11\"",
+  "main": "week-11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethMcGregor9/Week-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethMcGregor9/Week-11/issues"
+  },
+  "homepage": "https://github.com/SethMcGregor9/Week-11#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "jquerry": "^0.0.1-security"
+  }
+}
